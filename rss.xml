@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Marine Energy South Africa]]></title>
+        <description><![CDATA[Marine Energy South Africa]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 10 Mar 2016 13:29:18 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>South
+Africa has established itself as one of the most successful countries in the
+world to deploy renewable energy solutions. In a short space of time, the
+country has become a leader in large scale solar and wind projects. This is due
+to the government’s adoption of the Renewable Energy Independent Power
+Producers Programme. </p>]]></description>
+            <link>undefinedsouth-africa-has-established-itself-as-one-of-the-most-succe/index.html</link>
+            <guid isPermaLink="false">4102d1a7-d879-4183-9790-c425bbe215bb</guid>
+            <pubDate>Thu, 10 Mar 2016 13:28:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
