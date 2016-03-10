@@ -1,0 +1,28 @@
+name: Marine Energy South Africa
+favicon: null
+layout_spectrum: 0.28842443763278425
+typography_spectrum: 0.34412838937714696
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.11593676777556539
+  lightness: 0.5995931485667825
+  saturation: 0.1367890841793269
+  rhythmicContrast: 0.5441925812046975
+purpose: []
